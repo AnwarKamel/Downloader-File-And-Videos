@@ -1,6 +1,6 @@
 ## Sample Downloader App With Python And PyQT5
 - Download any file
-- Download From Video Youtube
+- Download Video From Youtube
 - Download PlayList From YouTube
 
 not completed yet.
